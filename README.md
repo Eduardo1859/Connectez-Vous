@@ -35,6 +35,6 @@ Você pode conferir o design  para ter uma visão detalhada de como o projeto se
 
 ## Deploy
 
-O projeto está disponível em [Clone-Sistok no Vercel](https://sistok-murex.vercel.app/) para visualização.
+O projeto está disponível em [Connectez-Vouz no Vercel](https://connectez-vous-cbr6.vercel.app/) para visualização.
 
 Seja bem-vindo ao Clone-Sistok, e sinta-se à vontade para contribuir ou entrar em contato conosco!
