@@ -37,4 +37,4 @@ Você pode conferir o design  para ter uma visão detalhada de como o projeto se
 
 O projeto está disponível em [Connectez-Vouz no Vercel](https://connectez-vous-cbr6.vercel.app/) para visualização.
 
-Seja bem-vindo ao Clone-Sistok, e sinta-se à vontade para contribuir ou entrar em contato conosco!
+Seja bem-vindo ao Connectez-Vouz, e sinta-se à vontade para contribuir ou entrar em contato conosco!
